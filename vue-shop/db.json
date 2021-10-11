@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 5783276,
+      "user": {
+        "id": "abc123",
+        "name": "Kovacs Bela"
+      },
+      "category": "laptops",
+      "name": "Asus ROG",
+      "description": "gamer laptop"
+    },
+    {
+      "id": 194494,
+      "user": {
+        "id": "abc123",
+        "name": "Kovacs Bela"
+      },
+      "category": "books",
+      "name": "13 almafa",
+      "description": "Wass Albert"
+    },
+    {
+      "id": 9518879,
+      "user": {
+        "id": "abc123",
+        "name": "Kovacs Bela"
+      },
+      "category": "phones",
+      "name": "Samsung Galaxy S10",
+      "description": "smartphone with curved display"
+    }
+  ]
+}
